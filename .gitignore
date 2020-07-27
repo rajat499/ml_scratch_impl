@@ -1,0 +1,5 @@
+*.zip*
+*.ipynb_checkpoints*
+nb_svm/fashion_mnist/train.csv
+nb_svm/data/training_noemoticon.csv
+nb_svm/svm/gaussian_kernel.csv
